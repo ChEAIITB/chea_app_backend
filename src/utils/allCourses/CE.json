@@ -1,0 +1,292 @@
+[
+  {
+    "courseName": "Introduction to Civil Engineering",
+    "courseCode": "CE 103",
+    "timeSlot": ["11B", "XB", "11A", "12B"]
+  },
+  {
+    "courseName": "Solid Mechanics",
+    "courseCode": "CE 203",
+    "timeSlot": ["8B", "6B", "6A"]
+  },
+  {
+    "courseName": "Hydromechanics",
+    "courseCode": "CE 207",
+    "timeSlot": ["1A", "1C", "1B"]
+  },
+  {
+    "courseName": "Building Materials and Construction",
+    "courseCode": "CE 209",
+    "timeSlot": ["3A", "3C", "3B"]
+  },
+  {
+    "courseName": "Artificial Intelligence & Data Science",
+    "courseCode": "CE 235",
+    "timeSlot": ["2A", "2C", "2B"]
+  },
+  {
+    "courseName": "Soil Mechanics Laboratory",
+    "courseCode": "CE 240",
+    "timeSlot": ["L4", "L2"]
+  },
+  {
+    "courseName": "Engineering Law",
+    "courseCode": "CE 324",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Foundation Engineering",
+    "courseCode": "CE 333",
+    "timeSlot": ["1A", "1C", "1B"]
+  },
+  {
+    "courseName": "Introduction to Structural Design",
+    "courseCode": "CE 337",
+    "timeSlot": ["9B", "3A", "3C", "3B"]
+  },
+  {
+    "courseName": "Structural Mechanics Level II",
+    "courseCode": "CE 339",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Transportation Engineering Laboratory",
+    "courseCode": "CE 341",
+    "timeSlot": ["L2", "L4"]
+  },
+  {
+    "courseName": "Water Supply and Waste Water Engineering",
+    "courseCode": "CE 433",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Probabilistic and Statistical Methods in Civil Eng",
+    "courseCode": "CE 463",
+    "timeSlot": ["2A", "2C", "2B"]
+  },
+  {
+    "courseName": "Numerical Methods in Civil Engineering",
+    "courseCode": "CE 465",
+    "timeSlot": ["4B", "4A"]
+  },
+  {
+    "courseName": "Construction Management",
+    "courseCode": "CE 482",
+    "timeSlot": ["1A", "1C", "1B"]
+  },
+  {
+    "courseName": "Integrated Design Project",
+    "courseCode": "CE 491",
+    "timeSlot": []
+  },
+  {
+    "courseName": "BTP I",
+    "courseCode": "CE 494",
+    "timeSlot": []
+  },
+  {
+    "courseName": "Irrigation Engineering and Technology",
+    "courseCode": "CE 496",
+    "timeSlot": ["6B", "6A"]
+  },
+  {
+    "courseName": "Dual Degree Project I",
+    "courseCode": "CE 593",
+    "timeSlot": []
+  },
+  {
+    "courseName": "Numerical Methods",
+    "courseCode": "CE 603",
+    "timeSlot": ["10B", "10A"]
+  },
+  {
+    "courseName": "Applied Statistics",
+    "courseCode": "CE 605",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Introduction to Building: Functional Design and Science",
+    "courseCode": "CE6102",
+    "timeSlot": ["10B", "10A"]
+  },
+  {
+    "courseName": "Structural Dynamics",
+    "courseCode": "CE 616",
+    "timeSlot": ["7B", "7A", "9B"]
+  },
+  {
+    "courseName": "Advanced Solids Mechanics",
+    "courseCode": "CE 623",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Groundwater Systems Planning and Management",
+    "courseCode": "CE 626",
+    "timeSlot": ["1A", "1C", "1B"]
+  },
+  {
+    "courseName": "Structural Design",
+    "courseCode": "CE 627",
+    "timeSlot": ["LX"]
+  },
+  {
+    "courseName": "Geographical Information Systems in Civil Engineering",
+    "courseCode": "CE 630",
+    "timeSlot": ["2A", "2C", "2B"]
+  },
+  {
+    "courseName": "Environmental Geomechanics",
+    "courseCode": "CE 641",
+    "timeSlot": ["7B", "7A"]
+  },
+  {
+    "courseName": "Experimental Geotechnics",
+    "courseCode": "CE 643",
+    "timeSlot": ["LX"]
+  },
+  {
+    "courseName": "Structural Reliability and Risk Analysis",
+    "courseCode": "CE 653",
+    "timeSlot": ["2A", "2C", "2B"]
+  },
+  {
+    "courseName": "Advanced Experimental Fluid Mechanics",
+    "courseCode": "CE 675",
+    "timeSlot": ["L2"]
+  },
+  {
+    "courseName": "Mechanics of Water Waves",
+    "courseCode": "CE 680",
+    "timeSlot": ["9A", "9B"]
+  },
+  {
+    "courseName": "Advance Pavement Engineering Lab",
+    "courseCode": "CE 681",
+    "timeSlot": ["LX"]
+  },
+  {
+    "courseName": "Seminar",
+    "courseCode": "CE 694",
+    "timeSlot": []
+  },
+  {
+    "courseName": "R & D Project",
+    "courseCode": "CE 695",
+    "timeSlot": []
+  },
+  {
+    "courseName": "Remote Sensing Technology",
+    "courseCode": "CE 701",
+    "timeSlot": ["3A", "3C", "3B"]
+  },
+  {
+    "courseName": "Remote Sensing Laboratory",
+    "courseCode": "CE 703",
+    "timeSlot": ["L2"]
+  },
+  {
+    "courseName": "Ocean Engineering Laboratory",
+    "courseCode": "CE 706",
+    "timeSlot": ["L2"]
+  },
+  {
+    "courseName": "Digital Image Processing of Remotely Sensed Data",
+    "courseCode": "CE 712",
+    "timeSlot": ["9A", "9B"]
+  },
+  {
+    "courseName": "Advanced Concrete Technology",
+    "courseCode": "CE 713",
+    "timeSlot": ["1A", "1C", "1B"]
+  },
+  {
+    "courseName": "Construction Planning and Control",
+    "courseCode": "CE 717",
+    "timeSlot": ["2A", "2C", "2B", "L1"]
+  },
+  {
+    "courseName": "Construction Materials Laboratory",
+    "courseCode": "CE 718",
+    "timeSlot": ["L3"]
+  },
+  {
+    "courseName": "Non-Destructive Testing of Materials",
+    "courseCode": "CE 720",
+    "timeSlot": ["11B", "11A"]
+  },
+  {
+    "courseName": "Construction Economics and Finance",
+    "courseCode": "CE 725",
+    "timeSlot": ["5B", "5A"]
+  },
+  {
+    "courseName": "Construction Materials",
+    "courseCode": "CE 727",
+    "timeSlot": ["11B", "11A"]
+  },
+  {
+    "courseName": "Mechanics of Fluid Flow",
+    "courseCode": "CE 731",
+    "timeSlot": ["6B", "6A"]
+  },
+  {
+    "courseName": "Traffic Engineering",
+    "courseCode": "CE 740",
+    "timeSlot": ["6B", "6A"]
+  },
+  {
+    "courseName": "Pavement Systems Engineering",
+    "courseCode": "CE 742",
+    "timeSlot": ["4B", "4A"]
+  },
+  {
+    "courseName": "Reinforced Earth and Geotextiles",
+    "courseCode": "CE 746",
+    "timeSlot": ["3A", "3C", "3B"]
+  },
+  {
+    "courseName": "Urban Transportation Systems Planning",
+    "courseCode": "CE 751",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Watershed Management",
+    "courseCode": "CE 766",
+    "timeSlot": ["9A", "9B"]
+  },
+  {
+    "courseName": "Urban Water and Environmental Management",
+    "courseCode": "CE 768",
+    "timeSlot": ["7B", "7A"]
+  },
+  {
+    "courseName": "Coastal and Ocean Environment",
+    "courseCode": "CE 769",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Optimization in Civil Engineering",
+    "courseCode": "CE 771",
+    "timeSlot": ["7B", "7A"]
+  },
+  {
+    "courseName": "Advanced Foundation Engineering",
+    "courseCode": "CE 781",
+    "timeSlot": ["8A", "8B"]
+  },
+  {
+    "courseName": "Advanced Soil Mechanics",
+    "courseCode": "CE 782",
+    "timeSlot": ["9A", "9B"]
+  },
+  {
+    "courseName": "Communication Skills",
+    "courseCode": "CE 899",
+    "timeSlot": ["12A", "12C", "12B"]
+  },
+  {
+    "courseName": "Seminar",
+    "courseCode": "CES801",
+    "timeSlot": []
+  }
+]

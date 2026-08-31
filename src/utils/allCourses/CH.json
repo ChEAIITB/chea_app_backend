@@ -1,0 +1,192 @@
+[
+    {
+        "courseName": "Chemistry",
+        "courseCode": "CH 111",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Chemistry Lab",
+        "courseCode": "CH 117",
+        "timeSlot": ["L2"]
+    },
+    {
+        "courseName": "Basic Organic Chemistry",
+        "courseCode": "CH 209",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Inorganic Chemistry Lab-I",
+        "courseCode": "CH 219",
+        "timeSlot": ["L2"]
+    },
+    {
+        "courseName": "Data Analysis for Chemists",
+        "courseCode": "CH 225",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Organic Chemistry Lab I",
+        "courseCode": "CH 231",
+        "timeSlot": ["L4"]
+    },
+    {
+        "courseName": "Co-ordination Chemistry and Magnetic Properties",
+        "courseCode": "CH 301",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Chemistry of Functional Groups",
+        "courseCode": "CH 305",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Introduction to Electrochemistry",
+        "courseCode": "CH 309",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Solid State",
+        "courseCode": "CH 311",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Organic Chemistry Lab III",
+        "courseCode": "CH 313",
+        "timeSlot": ["L2"]
+    },
+    {
+        "courseName": "Physical Chemistry Lab II",
+        "courseCode": "CH 315",
+        "timeSlot": ["L4"]
+    },
+    {
+        "courseName": "Mini Project I",
+        "courseCode": "CH 397",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Organic Reactions",
+        "courseCode": "CH 401",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Electrochemistry of Solutions and Interfaces",
+        "courseCode": "CH 403",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Advanced Transition Metal Chemistry",
+        "courseCode": "CH 405",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Inorganic Chemistry Lab II",
+        "courseCode": "CH 415",
+        "timeSlot": ["L3"]
+    },
+    {
+        "courseName": "Organic Chemistry Lab II",
+        "courseCode": "CH 417",
+        "timeSlot": ["LX"]
+    },
+    {
+        "courseName": "Chemical Bond and Molecular Geometry",
+        "courseCode": "CH 425",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Physical Chemistry Lab II",
+        "courseCode": "CH 433",
+        "timeSlot": ["L1"]
+    },
+    {
+        "courseName": "Chemistry and Computers",
+        "courseCode": "CH 481",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Methods in Organic Synthesis",
+        "courseCode": "CH 507",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Interpretative Molecular Spectroscopy",
+        "courseCode": "CH 521",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Introduction to Biomolecules",
+        "courseCode": "CH 546",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Organometallic Chemistry",
+        "courseCode": "CH 547",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Biophysical Chemistry",
+        "courseCode": "CH 584",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Research Project I",
+        "courseCode": "CH 591",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Project Stage I",
+        "courseCode": "CH 593",
+        "timeSlot": []
+    },
+    {
+        "courseName": "M.Sc. Project I",
+        "courseCode": "CH 595",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Chemical dynamics: quantum, classical and semiclassical methods",
+        "courseCode": "CH 605",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Funadamentals of Quantum Chemistry",
+        "courseCode": "CH 812",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Advanced Co-ordination Chemistry",
+        "courseCode": "CH 817",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Inorganic Complexes",
+        "courseCode": "CH 827",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Advanced Laboratory Techniques",
+        "courseCode": "CH 831",
+        "timeSlot": ["LX"]
+    },
+    {
+        "courseName": "Physical Organic and Stereochemistry",
+        "courseCode": "CH 839",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Organic Reactions and Synthesis",
+        "courseCode": "CH 845",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Communication Skills",
+        "courseCode": "CH 899",
+        "timeSlot": ["5B", "5A"]
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "CHS801",
+        "timeSlot": []
+    }
+]

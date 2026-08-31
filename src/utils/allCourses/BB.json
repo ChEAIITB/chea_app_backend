@@ -1,0 +1,187 @@
+[
+    {
+        "courseName": "Biology",
+        "courseCode": "BB 101",
+        "timeSlot": ["12A"]
+    },
+    {
+        "courseName": "Cell and Molecular Biology",
+        "courseCode": "BB 415",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Programming for Bioinformatics",
+        "courseCode": "BB 454",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Molecular Immunology",
+        "courseCode": "BB 505",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Project Proposal Presentation and Dissertation",
+        "courseCode": "BB 519",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Biological Thermodynamics and Kinetics",
+        "courseCode": "BB 525",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Molecular Enzymology",
+        "courseCode": "BB 527",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Research Methodology and Scientific Communication Skills",
+        "courseCode": "BB 529",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Plant Biotechnology",
+        "courseCode": "BB 531",
+        "timeSlot": ["11A"]
+    },
+    {
+        "courseName": "Environmental Biotechnology",
+        "courseCode": "BB 535",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Microbiology",
+        "courseCode": "BB 540",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Biochemistry and Analytical Biochemistry",
+        "courseCode": "BB 541",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Mathematics and Statistics",
+        "courseCode": "BB 542",
+        "timeSlot": ["XB", "XA"]
+    },
+    {
+        "courseName": "Introduction to Biomedical Engineering",
+        "courseCode": "BB 600",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Introduction to Bio-nanotechnology",
+        "courseCode": "BB 601",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Physiology for Engineers",
+        "courseCode": "BB 603",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Biophysical Chemistry",
+        "courseCode": "BB 617",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Mathematics for Biologists",
+        "courseCode": "BB 619",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Medical Imaging Methods",
+        "courseCode": "BB 627",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Movement Neuroscience",
+        "courseCode": "BB 633",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Experimental Techniques in Biomedical Engineering",
+        "courseCode": "BB 653",
+        "timeSlot": ["LX"]
+    },
+    {
+        "courseName": "Applied Microbiology and Biotechnology Laboratory",
+        "courseCode": "BB 659",
+        "timeSlot": ["L4", "9B"]
+    },
+    {
+        "courseName": "Biopotentials I: Cellular Signals",
+        "courseCode": "BB 661",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Medical Imaging Physics",
+        "courseCode": "BB 663",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Signals & Systems in Biomedical Engineering",
+        "courseCode": "BB 669",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Medical Sensors",
+        "courseCode": "BB 673",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Introduction to Biomechanics",
+        "courseCode": "BB 677",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Biological Physics at Microscopic Scales",
+        "courseCode": "BB 681",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Introduction to Quantum Science",
+        "courseCode": "BB 683",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Research Proposal",
+        "courseCode": "BB 701",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Fundamental and Practical Aspects of Microscopy",
+        "courseCode": "BB 706",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Introduction to Quantitative Physiology",
+        "courseCode": "BB 708",
+        "timeSlot": ["2A", "2B", "L4"]
+    },
+    {
+        "courseName": "Mathematics for Biomedical Data Analysis",
+        "courseCode": "BB 709",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "I Stage Project",
+        "courseCode": "BB 797",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Communication Skills",
+        "courseCode": "BB 899",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "BBS801",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Elements of Circuits and Instrumentation",
+        "courseCode": "BM 659",
+        "timeSlot": ["6B", "6A"]
+    }
+]

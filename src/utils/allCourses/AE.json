@@ -1,0 +1,222 @@
+[
+    {
+        "courseName": "A historical perspective of Aerospace Engineering",
+        "courseCode": "AE 103",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Introduction to Aerospace Engg.",
+        "courseCode": "AE 152",
+        "timeSlot": ["5B", "5A"]
+    },
+    {
+        "courseName": "Introduction to Aerospace Engg.",
+        "courseCode": "AE 153",
+        "timeSlot": ["5B", "5A"]
+    },
+    {
+        "courseName": "Supervised Learning",
+        "courseCode": "AE 219",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Thermodynamics and Propulsion",
+        "courseCode": "AE 223",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Solid Mechanics",
+        "courseCode": "AE 227",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Introduction to Aerodynamics and Propulsion Laboratory",
+        "courseCode": "AE 229",
+        "timeSlot": ["L2"]
+    },
+    {
+        "courseName": "Introduction to Aerospace Structures and Control Laboratory",
+        "courseCode": "AE 231",
+        "timeSlot": ["L4"]
+    },
+    {
+        "courseName": "Aircraft Propulsion",
+        "courseCode": "AE 234",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Compressible Fluid Mechanics",
+        "courseCode": "AE 236",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Control Theory",
+        "courseCode": "AE 308",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Aircraft Propulsion Laboratory",
+        "courseCode": "AE 316",
+        "timeSlot": ["L3"]
+    },
+    {
+        "courseName": "Vibrations and Structural Dynamics",
+        "courseCode": "AE 326",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "High Speed Aerodynamics",
+        "courseCode": "AE 339",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Flight Mechanics of Aircrafts and Spacecrafts",
+        "courseCode": "AE 341",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Aerodynamics Laboratory",
+        "courseCode": "AE 343",
+        "timeSlot": ["L1"]
+    },
+    {
+        "courseName": "Aero Propulsion",
+        "courseCode": "AE 344",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Aircraft Propulsion Laboratory",
+        "courseCode": "AE 345",
+        "timeSlot": ["L3"]
+    },
+    {
+        "courseName": "Supervised Learning",
+        "courseCode": "AE 419",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Aircraft Design Project",
+        "courseCode": "AE 429",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "BTP - I",
+        "courseCode": "AE 493",
+        "timeSlot": []
+    },
+    {
+        "courseName": "BTP - II",
+        "courseCode": "AE 494",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Gas Dynamics",
+        "courseCode": "AE 616",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Computing of Turbulent Flows",
+        "courseCode": "AE 623",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Introduction to Navigation and Guidance",
+        "courseCode": "AE 641",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Finite Element Method",
+        "courseCode": "AE 649",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Mini Project",
+        "courseCode": "AE 650",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Rotary Wing Aerodynamics",
+        "courseCode": "AE 667",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Fluid Dynamics",
+        "courseCode": "AE 683",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Navigation of Autonomous Vehicles",
+        "courseCode": "AE 688",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "AE 694",
+        "timeSlot": []
+    },
+    {
+        "courseName": "State Space Methods for Flight Vehicles",
+        "courseCode": "AE 695",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Introduction to Flight",
+        "courseCode": "AE 705",
+        "timeSlot": ["5B", "5A"]
+    },
+    {
+        "courseName": "Aerodynamics of Aerospace Vehicles",
+        "courseCode": "AE 707",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Aerospace Structures",
+        "courseCode": "AE 709",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Aircraft Propulsion",
+        "courseCode": "AE 711",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Structural Dynamics",
+        "courseCode": "AE 715",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Advanced Numerical Methods for Compressible Flows",
+        "courseCode": "AE 720",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Heat Transfer - Aerospace Applications",
+        "courseCode": "AE 726",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Aircraft Structural Mechanics Lab.",
+        "courseCode": "AE 727",
+        "timeSlot": ["L2"]
+    },
+    {
+        "courseName": "System Modelling, Dynamics and Control",
+        "courseCode": "AE 775",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Communication Skills",
+        "courseCode": "AE 899",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "AES801",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "AES802",
+        "timeSlot": []
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "courseName": "AI and Data Science",
+        "courseCode": "CL 205",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Chemical Engineering Thermodynamics",
+        "courseCode": "CL 207",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Computational Methods Lab",
+        "courseCode": "CL 249",
+        "timeSlot": ["L4", "L2"]
+    },
+    {
+        "courseName": "Process Fluid Mechanics",
+        "courseCode": "CL 254",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Chemical Processes",
+        "courseCode": "CL 306",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Chemical Industry Bootcamp",
+        "courseCode": "CL 307",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Conception of Chemical Projects",
+        "courseCode": "CL 309",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Chemical Process Design I",
+        "courseCode": "CL 327",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Process Control",
+        "courseCode": "CL 329",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Chemical Engineering Lab. II",
+        "courseCode": "CL 333",
+        "timeSlot": ["L1", "L3"]
+    },
+    {
+        "courseName": "Advanced Transport Phenomena",
+        "courseCode": "CL 336",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Material Science",
+        "courseCode": "CL 409",
+        "timeSlot": ["3A", "3C", "3B"]
+    },
+    {
+        "courseName": "Introduction to Biochemical Engg.",
+        "courseCode": "CL 420",
+        "timeSlot": ["2A", "2C", "2B"]
+    },
+    {
+        "courseName": "Chemical Projects Management",
+        "courseCode": "CL 437",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Supervised learning I",
+        "courseCode": "CL 443",
+        "timeSlot": []
+    },
+    {
+        "courseName": "B.Tech.Project(grade points will be included in CL",
+        "courseCode": "CL4497",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Colloid & Interfacial Engineering",
+        "courseCode": "CL 461",
+        "timeSlot": ["1A", "1C", "1B"]
+    },
+    {
+        "courseName": "Process Safety and Risk Management",
+        "courseCode": "CL 464",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "B.Tech. Project I",
+        "courseCode": "CL 491",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Dual Degree Project I",
+        "courseCode": "CL 593",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Advanced Transport Phenomena",
+        "courseCode": "CL 601",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Mathematical and Statistical Methods in Chemical Engineering",
+        "courseCode": "CL 602",
+        "timeSlot": ["9A", "9B"]
+    },
+    {
+        "courseName": "Advanced Reaction Engineering",
+        "courseCode": "CL 605",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Advanced Thermodynamics",
+        "courseCode": "CL 607",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Electrochemical Reaction Engineering",
+        "courseCode": "CL 611",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "State Estimation: Theory and Applications",
+        "courseCode": "CL 653",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Colloid and Interfacial Engineering",
+        "courseCode": "CL 656",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Sustainable Engineering Principles",
+        "courseCode": "CL 665",
+        "timeSlot": ["4B", "4A"]
+    },
+    {
+        "courseName": "Product Research & Development",
+        "courseCode": "CL 669",
+        "timeSlot": ["7B", "7A"]
+    },
+    {
+        "courseName": "Turbulent Multiphase Flow",
+        "courseCode": "CL 673",
+        "timeSlot": ["11B", "11A"]
+    },
+    {
+        "courseName": "Introduction to Microfluidics and its Applications",
+        "courseCode": "CL 683",
+        "timeSlot": ["10B", "10A"]
+    },
+    {
+        "courseName": "Novel Alternative Models for Drug Discovery",
+        "courseCode": "CL 685",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Artificial Intelligence in Process Engineering",
+        "courseCode": "CL 688",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Computational Methods in Chemical Engineering",
+        "courseCode": "CL 701",
+        "timeSlot": ["4B", "4A", "3A"]
+    },
+    {
+        "courseName": "Lecture Series",
+        "courseCode": "CL 702",
+        "timeSlot": ["X1", "X2", "X3"]
+    },
+    {
+        "courseName": "Molecular Principles in Chemical Engineering",
+        "courseCode": "CL 706",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "Aerosol Technology",
+        "courseCode": "CL 710",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Introduction to Network Analysis",
+        "courseCode": "CL 713",
+        "timeSlot": ["6B", "6A"]
+    },
+    {
+        "courseName": "Modelling Chemical and Biiological Patterns",
+        "courseCode": "CL 716",
+        "timeSlot": ["12A", "12C", "12B"]
+    },
+    {
+        "courseName": "I Stage Project",
+        "courseCode": "CL 797",
+        "timeSlot": []
+    },
+    {
+        "courseName": "Communication Skills",
+        "courseCode": "CL 899",
+        "timeSlot": ["8A", "8B"]
+    },
+    {
+        "courseName": "Seminar",
+        "courseCode": "CLS801",
+        "timeSlot": []
+    }
+]
