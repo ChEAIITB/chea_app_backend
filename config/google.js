@@ -3,6 +3,7 @@ require("dotenv").config({
     path:__dirname+"./../.env"
 });
 const fs = require("fs");
+console.log(process.env.GOOGLE_TYPE);
 const googleCredentials = {
   "type": process.env.GOOGLE_TYPE,
   "project_id": process.env.GOOGLE_PROJECT_ID,
