@@ -4,7 +4,7 @@ const { google } = require("googleapis");
 const fs = require("fs");
 
 const keyFile = JSON.parse(
-    fs.readFileSync("/etc/secrets/sheetKey.json", "utf8")
+    fs.readFileSync("../../credentials/sheetKey.json", "utf8")
 );
 const auth = new google.auth.GoogleAuth({
     credentials: keyFile,
