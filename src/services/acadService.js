@@ -82,7 +82,7 @@ const addAnnouncement = async(cId, announcementData, rollNumber, courseCode) => 
     };
     try {
         let result = await (new Announcement(announcement)).save();
-        let res = await sendNotifs(courseCode, 'Course Announcement', `/course/announcement?cId=${announcementData.cId}`, '', targetUser, rollNumber);
+        let res = await sendNotifs(courseCode, 'Course Announcement', `/course/announcement?cId=${cId}`, '', targetUser, rollNumber);
         if(res)
             return announcementId;
         return false;
